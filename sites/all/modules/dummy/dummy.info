@@ -1,0 +1,4 @@
+name = Get Dummy fliter data
+description = Fetching filter table dummy data for api testing
+core = 7.x
+package = Custom API
